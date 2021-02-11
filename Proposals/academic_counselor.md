@@ -1,0 +1,1 @@
+Our Chapter resolves that, if a sitting Academic Counselor is put on academic probation due to academic underperformance, they will resign and a new Academic Counselor will be voted on by the Chapter Legislature with urgency.
