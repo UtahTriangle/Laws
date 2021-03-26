@@ -1,4 +1,4 @@
-Our Chapter resolves to pursue the creation of a new Independent Greek Council (IGC) at the University of Utah to provide governance for independent Greek organizations in order to create a governing body that:
+Our Chapter resolves to pursue the creation of a new Independent Greek Council (IGC) at the University of Utah in order to create a governing body that:
 * Pursues a modern form of Greek Life whose priority is to assist organizations in bettering its' members, our campus, and the broader community;
 * Create a governing body that does not suffer a skew in representation towards larger organizations;
 * Allows its' member organizations independence in how they pursue their missions; and
@@ -192,6 +192,8 @@ Elections for these positions may occur any time following the conclusion of the
 Elected positions shall serve until their successor is elected.
 
 Each full Council member organization shall nominate **at least** one member from their organization for **either** elected position.
+
+Candidates must be an active or alumni member of the nominating organization **and** be a current student at the University of Utah.
 
 Elected positions shall not both be held by members of the same organization. Once a **Council Administrator** is decided, members of the same organization running for **Council Treasurer** shall be removed from the election. If all candidates are eliminated, another election for Council Treasurer shall occur.
 
