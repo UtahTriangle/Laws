@@ -1,6 +1,6 @@
 Our Chapter resolves to pursue the creation of a new Independent Greek Council (IGC) at the University of Utah in order to create a governing body that:
 * Pursues a modern form of Greek Life whose priority is to assist organizations in bettering its' members, our campus, and the broader community;
-* Create a governing body that does not suffer a skew in representation towards larger organizations;
+* Does not suffer a skew in representation towards larger organizations;
 * Allows its' member organizations independence in how they pursue their missions; and
 * Provides transparency in how the dues towards the governing body are spent.
 
@@ -14,22 +14,22 @@ Our Chapter resolves to establish the IGC as a founding member under the followi
 
 This document shall stand as the governing document of the University of Utah Independent Greek Council (IGC), whose purpose and operations shall adhere to the procedures within.
 
-The Body, elected officials, and Judicial Board of the Council shall adhere to the procedures of this document in leading the Council.
+The Body, Judicial Board and elected officials of the Council shall adhere to the procedures of this document in leading the Council.
 
 The mission of the Council shall be to serve as a united resource and platform for the organizations within the Council. The Council shall act as a liaison among organizations, their leadership boards, and their respective national boards.
 
-The Council shall aim to enhance its' member organizations to pursue their missions among their members, our campus, and the broader community.
+The Council shall aim to enhance its' member organizations capability to pursue their missions among their members, our campus, and the broader community.
 
 
 ## Article: Membership
 
-The Membership of the Council shall consist of all members and associates of any University-recognized fraternities, sororities, or satellites that have been admitted to the Council.
+The Membership of the Council shall consist of all members of any University-recognized fraternities, sororities, or satellites that have been admitted to the Council.
 
 Classifications of membership within the IGC shall be:
 
 * *Regular Membership*: The member organizations who are recognized by the University and hold an active charter from their national organization. 
 
-* *Associate Membership*: Incoming members that have not yet received full memerbship by the Council Body.
+* *Associate Membership*: Incoming members that have not yet received full membership by the Council Body.
     - University-recognized satellites in the process of obtaining a charter from their national organization may be associate members, but may not be raised to full membership until the receipt of a charter from their national organization.
 
 Associate members may be accepted into the IGC by a **simple majority** of the Council Body, and raised to full membership by a **strong majority** of the Council Body.
