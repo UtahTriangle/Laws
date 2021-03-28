@@ -118,8 +118,9 @@ A simple majority of the member organizations shall constitute a quorum.
 
 In the presence of a quorum, voting matters may be passed by:
 
-* a **strong majority** of voting shares for amendments to the Constitution; and
 * a **simple majority** of voting shares for Council resolutions, changes to meeting structures and times, or to skip member organizations in the Leading Cycle.
+* a **strong majority** of voting shares for amendments to the Constitution; and
+* a **supermajority** of voting shares for a removal of an organization from the Council.
 
 The voting power of member organizations shall be determined by their membership status in the Council:
 
