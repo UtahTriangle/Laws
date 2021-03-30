@@ -6,7 +6,9 @@ Our Chapter resolves to pursue the creation of a new Independent Greek Council (
 
 Our Chapter resolves that the leadership of our Chapter will focus on creating support for this IGC among both Greek organizations and the administration at the University of Utah.
 
-Our Chapter resolves that we shall finalize formal recognition of the IGC by the University, and be represented by this governing body, only after **two** other Greek organizations agree to join the IGC as founding members.
+Our Chapter resolves that we shall finalize formal recognition of the IGC by the University only after **two** other Greek organizations agree to join the IGC as full members.
+
+Our Chapter resolves that the final decision to formalize and join an IGC shall be done by a Constitutional Amendment.
 
 Our Chapter resolves to establish the IGC as a founding member under the following Constitution and Resolutions:
 
