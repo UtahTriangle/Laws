@@ -169,3 +169,19 @@ Our Chapter resolves that all I/O Package implementation resolutions will expire
 ## Elections
 
 Our Chapter resolves that the duration of elections made during the Spring Term of 2021 will last until **December 31st, 2021** in order to properly align our Chapter's election cycle with the one laid out in the Organization Article of our Chapter's Constitution. This Resolution will expire on **January 1st, 2022**.
+
+## Governance
+
+Our Chapter resolves to pursue the creation of a new Independent Greek Council (IGC) at the University of Utah in order to create a governing body that:
+* Pursues a modern form of Greek Life whose priority is to assist organizations in bettering its' members, our campus, and the broader community;
+* Does not suffer a skew in representation towards larger organizations;
+* Allows its' member organizations independence in how they pursue their missions; and
+* Provides transparency in how the dues towards the governing body are spent.
+
+Our Chapter resolves that the leadership of our Chapter will focus on creating support for this IGC among both Greek organizations and the administration at the University of Utah.
+
+Our Chapter resolves that we shall finalize formal recognition of the IGC by the University only after **two** other Greek organizations agree to join the IGC as full members.
+
+Our Chapter resolves that the final decision to formalize and join an IGC shall be done by a Constitutional Amendment.
+
+Our Chapter resolves to establish the IGC as a founding member under the proposed [Constitution and Resolutions](Proposals/IGC/constitution.md).
