@@ -57,7 +57,7 @@ Any man who has completed the Ritual and remains in good standing with our Chapt
 
 Every Brother of our Chapter shall commit to creating, in our Chapter, a lasting environment in which enduring friendships may be formed and the Cause of our Chapter may be pursued.
 
-Each Brother of our Chapter shall commit to creating a strong foundation on which our Chapter can exist through [his duties as a voting constitutent of the Legislature of our Chapter.](#).
+Each Brother of our Chapter shall commit to creating a strong foundation on which our Chapter can exist through [his duties as a voting constituent of the Legislature of our Chapter.](#).
 
 Each Brother of our Chapter shall commit to being a present and constructive force within our Chapter and creating in our Chapter an environment in which enduring friendships may be formed by making a constant effort to visit our Brotherhood a their circumstances may allow.
 
@@ -115,7 +115,7 @@ In order to appeal for Alumni Brotherhood, the Brother must present their appeal
 
 Students studying in the field of science, architecture, and engineering may receive bids for membership in our Chapter.
 
-Our Chapter shall work to extend these bids to those who show distinguished characters, values akin to the chosen ideals of our Fraternity, and who are willing to accept their full share in maintaining a Chapter in which enduring frienships may be formed.
+Our Chapter shall work to extend these bids to those who show distinguished characters, values akin to the chosen ideals of our Fraternity, and who are willing to accept their full share in maintaining a Chapter in which enduring friendships may be formed.
 
 As a Recognized Student Organization of the University of Utah, membership shall be open to any currently enrolled student or employee of the University of Utah and narrowed according to the requirements of the National Fraternity.
 
@@ -216,9 +216,6 @@ Our Chapter shall recognize Community Advisors of our Chapter as individuals out
 
 Our Chapter shall recognize National Advisors of our Chapter as individuals of our National Fraternity staff who advise and assist our Chapter in fulfilling our commitments as a Chapter of Triangle Fraternity, and in fulfilling our commitments to the precepts of the Fraternity as set forth in the Ritual.
 
-#### Alumni Advisors
-
-Our Chapter shall recognize Alumni Advisors of our Chapter as Alumni Brothers who commit to assist our Chapter in organizing both Brothers and Alumni Brothers in the pursuit of our Cause.
 
 ## Article: Organization
 
@@ -294,7 +291,7 @@ A **simple majority** of the Legislature of our Chapter shall consist of ***one-
 
 A **strong majority** of the Legislature of our Chapter shall consist of ***two-thirds*** a quorum.
 
-A **supermajority** of the Legislature of our Chapter shall consist of ***three-fourths*** a quorum.
+A **super-majority** of the Legislature of our Chapter shall consist of ***three-fourths*** a quorum.
 
 ##### ***Alternative Vote***
 
@@ -315,7 +312,7 @@ The Legislature of our Chapter may approve the Budget presented by our Chapter L
 
 #### Bids for Membership
 
-The Legislature of our Chapter shall, following each term's recruitment period, convene to extend bids to men of distingushed character and who show values akin to the chosen ideals of our Fraternity.
+The Legislature of our Chapter shall, following each term's recruitment period, convene to extend bids to men of distinguished character and who show values akin to the chosen ideals of our Fraternity.
 
 A bid for membership may be extended by a **simple majority** of a standard quorum.
 
@@ -370,9 +367,9 @@ The Legislature shall hold the power to create, expel, or amend Resolutions with
 
 The Legislature of our Chapter shall hold the power to, in dire and necessary cases, revoke the membership of a Brother.
 
-A revokation of membership shall be created and approved according to the [Judicial process for revocations of membership](#). Once approved, the membership of that Brother shall be considered **tentatively revoked** for **one month**, after which that membership shall be **permanently revoked** unless an appeal is approved by the Legislature of our Chapter.
+A revocation of membership shall be created and approved according to the [Judicial process for revocations of membership](#). Once approved, the membership of that Brother shall be considered **tentatively revoked** for **one month**, after which that membership shall be **permanently revoked** unless an appeal is approved by the Legislature of our Chapter.
 
-While a Brother's Triangle membership is **tentatively revoked**, they shall be barred from attendance of any Triangle event. The only exception to this barment will be an appeal of this revocation made to the Legislature of our Chapter.
+While a Brother's Triangle membership is **tentatively revoked**, they shall be barred from attendance of any Triangle event. The only exception to this bar will be an appeal of this revocation made to the Legislature of our Chapter.
 
 The Legislature shall hold the power to overrule a **tentative** revocation of a Triangle Brother's membership with a **strong majority** of a **three-fourths quorum, excluding the Brother under consideration**.
 
@@ -432,7 +429,7 @@ Our Chapter Administrator shall be the primary custodian of our Chapter's Redboo
 
 Our Chapter Administrator shall be the primary custodian of all documentation of our Chapter's legislature and primary assistant to the legislative process.
 
-Our Chapter Administrator shall be the primary custodian of our Chapter's offical communication channels.
+Our Chapter Administrator shall be the primary custodian of our Chapter's official communication channels.
 
 ##### ***Treasurer***
 
@@ -446,7 +443,7 @@ Our Chapter Treasurer shall function as the payer of all bills due by our Chapte
 
 Our Chapter Treasurer shall ensure the responsible use of all our Chapter funds, and keep all spending within the means of our Chapter.
 
-Our Chapter Treasurer shall be the primary advocate to keep Chapter membership financially accessable for all Brothers.
+Our Chapter Treasurer shall be the primary advocate to keep Chapter membership financially accessible for all Brothers.
 
 ##### ***Fraternal Officer***
 
@@ -466,7 +463,7 @@ Our Fraternal Officer shall architect and execute creative and engaging programm
 
 The Chapter External Officer shall lead our Chapter in fulfilling its envisioned role in the Greek, campus, and local communities.
 
-Our External Officer shall be the primary point of contact between, and custodion of, relationships between external organizations and our Chapter.
+Our External Officer shall be the primary point of contact between, and custodian of, relationships between external organizations and our Chapter.
 
 Our External Officer shall be the primary architect and executor of events attended by our Chapter and external organizations.
 
@@ -567,7 +564,7 @@ Each Brother of the Judicial Board shall commit to maintaining a thorough knowle
 
 Each Brother of the Judicial Board shall commit to keeping all decisions they make as a Brother of the Judicial Board free of personal biases and conflicts.
 
-No Brother shall be allowed to serve on both the Executive and Judicial Boards simulateously. Additionally, Brothers of the Executive Board shall not be eligible for election to vacancies in the Judicial Board.
+No Brother shall be allowed to serve on both the Executive and Judicial Boards simultaneously. Additionally, Brothers of the Executive Board shall not be eligible for election to vacancies in the Judicial Board.
 
 #### Conflicts of Interest
 
@@ -593,7 +590,7 @@ The Judicial Board shall assist the Brothers in dispute in finding a resolution.
 
 The Judicial Board may, by a **two-thirds (2/3)** majority, publish an official statement to our Chapter regarding a dispute if they feel it is important for our Chapter to be reminded of our values and does not violate the confidentiality of any Brother in dispute.
 
-The Judicial Board and the Brothers in dispute shall commit to keeping the specific deatils of any dispute confidential. An exception shall be made to this commitment only under the following cases:
+The Judicial Board and the Brothers in dispute shall commit to keeping the specific details of any dispute confidential. An exception shall be made to this commitment only under the following cases:
 
 - any Brother in dispute feels like a statement to our Chapter including explicit details of the dispute is warranted and **two-thirds (2/3)** of the Judicial Board agrees;
 - any Brother of the Judicial Board feels like a statement to our Chapter is warranted and **two-thirds (2/3)** of the Judicial Board agrees; or
@@ -642,7 +639,7 @@ Every Triangle Brother may experience circumstances under which they cannot fulf
 
 Any Triangle Brother seeking a one-term special status shall appeal to the Judicial Board with the case for their special status. The Judicial Board shall hear the case, and may waive or modify any commitment made by that Brother. If the Judicial Board waives or modifies any commitments made by that Brother, they shall also waive or modify the rights of that Brother accordingly.
 
-Any Triangle Brother whose appeal for a special status involves a reduction of dues must present their appeal to the Judicial Board at least **two weeks prior** to the submission of that term's dues. The Judicial Board shall hear the case and may modify the commitment of dues by that Brother, for that term. The Judicial Board shall not reduce any Brother's dues beneath the per-member expendatures necessary for the continuing operation of our Chapter.
+Any Triangle Brother whose appeal for a special status involves a reduction of dues must present their appeal to the Judicial Board at least **two weeks prior** to the submission of that term's dues. The Judicial Board shall hear the case and may modify the commitment of dues by that Brother, for that term. The Judicial Board shall not reduce any Brother's dues beneath the per-member expenditures necessary for the continuing operation of our Chapter.
 
 The Judicial Board shall submit a report for each member granted a special status to the Vice President of our Chapter and our Chapter Treasurer. This report shall outline all waives and modifications to the commitments of the Brother granted a special status.
 
@@ -672,13 +669,13 @@ In the case that a Brother is dissatisfied with a decision made by the Judicial 
 
 Our Chapter shall establish the Academic Council to oversee each Brother's mission to maintain a creditable scholastic record and promote the welfare of their professions and fields of study.
 
-The Academic Concil shall consist of [Academic Counselor](#), the President, and the Vice President of our Chapter.
+The Academic Council shall consist of [Academic Counselor](#), the President, and the Vice President of our Chapter.
 
 The Academic Council shall act as the executors and custodians of our Chapter's [Academic Plan](#) and shall work to encourage each Brother's in the rigorous study of their University coursework.
 
 The Brothers of our Chapter's Academic Council shall be the only Brothers authorized to see our Chapter's grade reports. **These Brothers shall keep the contents of these grade reports confidential under all circumstances** and shall use the information of the reports only in the execution of our Chapter's Academic Plan and the betterment of our Chapter's creditable scholastic record.
 
-The Academic Council shall submit proposals for revocation of membership to our Chapter's Judicial Board for members who have routinely failed to fulfill [their commitment to maintaining a creditble scholastic record](#).
+The Academic Council shall submit proposals for revocation of membership to our Chapter's Judicial Board for members who have routinely failed to fulfill [their commitment to maintaining a creditable scholastic record](#).
 
 #### Academic Counselor
 
