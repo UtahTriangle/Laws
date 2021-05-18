@@ -337,7 +337,7 @@ The extension for a bid for Initiation shall be determined by a vote where the c
 In the case of a re-vote on a bid for Initiation of a New Member, the result shall be determined by a vote where the conditions are:
 
 * **Negating votes numbering less than or equal to 10% members of the voting quorum** shall extend to that New Member a bid for Initiation; otherwise,
-* the New Member shall not be extended a bid for Initiaton.
+* the New Member shall not be extended a bid for Initiation.
 
 If a New Member is not extended a bid for Initiation, our Chapter may vote by **simple majority** to extend them a [bid for membership](#) during the next academic term.
 
@@ -686,3 +686,55 @@ The Academic Counselor shall be elected by the Legislature of our Chapter by a *
 The maximum term for an Academic Counselor of our Chapter shall be **one year** following their election by our Chapter's Legislature. It is not required that the Academic Council serve a full term. In the case that the position of Academic Counselor is vacant, the Legislature of our Chapter shall commit to holding an election for the role with urgency.
 
 The Academic Counselor shall function independently of our Chapter's Executive Board, but shall give routine reports to the Executive Board throughout the duration of their term.
+
+### Alumni Advisory Board
+
+Our Chapter shall establish an Alumni Advisory Board to assist our Chapter in pursuing its' goals and resolutions. The Advisory Board shall assist active members of the Chapter, primarily the active leadership, by advising on best practices for Chapter operations, organization, and leadership.
+
+All Alumni Brothers of our Chapter shall be eligible to hold a position as an Alumni Advisor on the Board.
+
+Alumni Advisors shall be appointed by the Chapter President. The Chapter President may appoint Alumni Advisors at their discretion.
+
+Alumni Advisors shall be appointed for the duration of the appointing President's term. Incoming Chapter Presidents may extend appointments at their discretion.
+
+The Alumni Advisory Board for a given term will assist outgoing Executive Boards in transitioning information to incoming Executive Boards.
+
+The Chapter President is advised to appoint one of each of the following categories of Alumni Advisor:
+
+#### Leadership Advisor
+
+The Leadership Advisor shall advise the Chapter President and Chapter Vice President on best practices for leading and managing the Chapter and its' Executive Board.
+
+The Leadership Advisor may provide input on Chapter direction, goals, resolutions, and resolving Chapter conflicts.
+
+The Leadership Advisor shall advise and assist the Chapter President in communicating with and organizing the Alumni Chapter.
+
+The Leadership Advisor shall advise and assist the Chapter President in keeping the Alumni Advisory Board fully appointed and organized.
+
+#### Organizational Advisor
+
+The Organizational Advisor shall advise the Chapter Executive Board on best practices for the Chapter's organizational structure, infrastructure, and documentation.
+
+The Organizational Advisor shall advise and assist the Chapter Administrator in maintaining Chapter documentation and infrastructure.
+
+The Organizational Advisor shall advise and assist the Chapter Treasurer in maintaining and presenting accurate and feasible Chapter budgets.
+
+The Organizational Advisor shall assist the Chapter Executive Board in keeping track of National and University critical deadlines.
+
+#### Academic Advisor
+
+The Academic Advisor shall advise the Chapter Academic Council and Judicial Board on best practices for monitoring and improving academic performance for the Chapter and its' active members.
+
+The Academic Advisor shall advise and assist the Chapter Academic Council in conducting routine meetings to discuss academic issues in the Chapter.
+
+The Academic Advisor shall advise and assist the Chapter President in keeping the position of Chapter Academic Counselor filled and utilized.
+
+The Academic Advisor shall have the same access to Chapter academic information as the Academic Council.
+
+#### Event Advisor
+
+The Event Advisor shall advise the Chapter Executive Board, primarily members in event-driven roles such as the Fraternal, External, Recruitment, and Education Officers, in best practices for organizing well-run Chapter events.
+
+The Event Advisor shall advise and assist the Chapter Fraternal Officer in organizing Alumni Member attendance at Chapter Brotherhood Retreats, Alumni Dinners, and Founders' Day Dinners.
+
+The Event Advisor shall advise and assist the Chapter Vice President in organizing Alumni Member attendance at the Initiation of New Members.
